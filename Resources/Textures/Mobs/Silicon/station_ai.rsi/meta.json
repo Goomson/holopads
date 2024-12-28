@@ -51,8 +51,16 @@
       ]
     },
     {
-      "name": "default",
-      "directions": 4
+        "name": "default",
+        "delays": [
+            [
+                0.2,
+                0.2,
+                0.2,
+                0.2
+            ]
+        ]
+
     },
     {
       "name": "base"
